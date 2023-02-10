@@ -1,6 +1,6 @@
 # 1. Introduction of ADR
 
-Date: 2023-01-17
+Date: 17-01-2023
 
 ## Status
 
